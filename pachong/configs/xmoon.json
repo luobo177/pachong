@@ -1,0 +1,11 @@
+{
+  "name": "星月号",
+  "base_url": "https://x.xmoon.lol/",
+  "use_base64_keyword": true,
+  "search_url": "https://x.xmoon.lol/search/-#{encoded_keyword}",
+  "result_selector": "h3.inn-card_variable-height__item__title a",
+  "link_attr": "href",
+  "title_attr": "title",
+  "pagination_selector": "",
+  "pagination_attr": ""
+}

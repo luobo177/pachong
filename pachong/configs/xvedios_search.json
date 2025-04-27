@@ -1,0 +1,11 @@
+{
+  "name": "XVideos",
+  "base_url": "https://de.xvideos.com",
+  "search_url": "https://de.xvideos.com/?k={keyword}/{page}",
+  "use_base64_keyword": false,
+  "result_selector": "p.title a",
+  "link_attr": "href",
+  "title_attr": "title",
+  "pagination_selector": "",
+  "pagination_attr": ""
+}

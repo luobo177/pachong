@@ -1,0 +1,11 @@
+{
+  "name": "18Comic",
+  "base_url": "https://18comic.vip",
+  "use_base64_keyword": false,
+  "search_url": "https://18comic.vip/search/photos?main_tag=0&search_query={keyword}&page={page}",
+  "result_selector": "div.col-xs-6.col-sm-6.col-md-4.col-lg-3.list-col a",
+  "link_attr": "href",
+  "title_attr": "title",
+  "pagination_selector": "ul.pagination a",
+  "pagination_attr": "href"
+}
